@@ -2,7 +2,26 @@
 baseurl = "https://appernetic.github.io/"
 
 # Site title
-title = "Appernetic.io"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title = "gsm"
 
 # Copyright
 copyright = "(c) 2016 Appernetic.io"
@@ -44,7 +63,21 @@ disqusShortname = "appernetic"
 #
 [params]
     # You can use markdown here.
-    brand = "Appernetic"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    brand= "gsm"
     topline = "A Static Site Generator as a Service"
     footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
     theme = "paper"
@@ -60,7 +93,21 @@ disqusShortname = "appernetic"
     googleAnalytics = "UA-73770938-2"
 
     # Sidebar social links.
-    github = "appernetic" # Your Github profile ID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  github = "gsm" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
