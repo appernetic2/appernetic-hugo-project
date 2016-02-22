@@ -4,4 +4,4 @@ draft = true
 title = "gsm"
 
 +++
-
+In khmer rouge era the chinese built this air strip
