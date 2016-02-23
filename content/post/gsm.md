@@ -14,7 +14,8 @@ The strip was built deep inside Cambodia to counter the Vietnam war and facilita
 
 All told, between 1969 and 1973, the U.S. dropped half-a-million tons of bombs on Cambodia alone, killing at least 100,000 civilians. 
 
+Read more here 
 http://www.salon.com/2015/11/10/henry_kissingers_genocidal_legacy_partner/
 
-It seems oral and written statements not match 
+It seems oral and written statements not match in timeline.  
 Discus here
