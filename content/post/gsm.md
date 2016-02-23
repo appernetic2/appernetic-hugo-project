@@ -21,8 +21,8 @@ It seems oral and written statements not match in timeline.
 
 The air strip is now guarded by one military at the checkpoint and one police in hammock. It currently resides one plane
 
-
-2025 it is supposed to be a major hub in south east asia taking up competition with Bangkok hub.
+![enter image description here][1]
+[1]: /Images/12729239_1323268787698512_7866697459634217947_n.jpg2025 it is supposed to be a major hub in south east asia taking up competition with Bangkok hub.
 
 
 Discus here
