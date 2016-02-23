@@ -4,4 +4,5 @@ draft = true
 title = "gsm"
 
 +++
-In khmer rouge era the chinese built this air strip
+In Khmer Rouge era the Chinese built this air strip. The strip was built deep inside Cambodia to counter the Vietnam war. 
+Read more here http://www.salon.com/2015/11/10/henry_kissingers_genocidal_legacy_partner/
