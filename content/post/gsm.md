@@ -18,4 +18,11 @@ Read more here
 http://www.salon.com/2015/11/10/henry_kissingers_genocidal_legacy_partner/
 
 It seems oral and written statements not match in timeline.  
+
+The air strip is now guarded by one military at the checkpoint and one police in hammock. It currently resides one plane
+
+
+2025 it is supposed to be a major hub in south east asia taking up competition with Bangkok hub.
+
+
 Discus here
