@@ -7,7 +7,7 @@ title = "gsm"
 In Khmer Rouge era the Chinese built this air strip. 
 
 ![enter image description here][1]
-[1]: /images/12697273_1323105704381487_4152874675511216701_o.jpg
+[1]:/images/12697273_1323105704381487_4152874675511216701_o.jpg
 The strip was built deep inside Cambodia to counter the Vietnam war and facilitate Chinese warplanes. 
 
  “Henry A. Kissinger approved each of the 3,875 Cambodia bombing raids in 1969 and 1970” — the most secretive phase of the bombing — “as well as the methods for keeping them out of the newspapers.”
