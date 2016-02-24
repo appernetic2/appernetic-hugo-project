@@ -31,4 +31,4 @@ The air strip is now guarded by one military at the checkpoint and one police in
 Discus here
 
 [1]: /images/12697273_1323105704381487_4152874675511216701_o.jpg
-[2]: /Images/12729239_1323268787698512_7866697459634217947_n.jpg
+[2]: /images/12729239_1323268787698512_7866697459634217947_n.jpg
