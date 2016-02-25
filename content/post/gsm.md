@@ -37,7 +37,7 @@ The air strip is now guarded by one military at the checkpoint and one police in
      */
     /*
     var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.url = http://appernetic2.github.io/2016/02/23/gsm/  // 
         this.page.identifier = PAGE_IDENTIFIER; // Replace
 
 [1]: /images/12697273_1323105704381487_4152874675511216701_o.jpg
