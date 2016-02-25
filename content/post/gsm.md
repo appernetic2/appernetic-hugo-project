@@ -25,10 +25,20 @@ The air strip is now guarded by one military at the checkpoint and one police in
 ![enter image description here][2]
 
 
-2025 it is supposed to be a major hub in south east asia taking up competition with Bangkok hub.
+2025 it is supposed to be a major hub in south east asia taking up competition with Bangkok hub. Is it possible?  I do not know it is situated aproximately 110 km from capital Phnom Pehn, 190 km from Battambang. 10 km from provincial capital of kampung chhnang.
 
 
-Discus here
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace
 
 [1]: /images/12697273_1323105704381487_4152874675511216701_o.jpg
 [2]: /images/12729239_1323268787698512_7866697459634217947_n.jpg
