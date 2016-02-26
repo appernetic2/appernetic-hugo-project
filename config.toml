@@ -1,7 +1,24 @@
 # hostname (and path) to the root eg. http://spf13.com/
 baseurl = "/"
 # Site title
-title = "Kukelikuelikuken"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title = "SSsrree"
 # Copyright
 copyright = "(c) 2016 Khmer"
 # Language
@@ -38,7 +55,8 @@ disqusShortname = "appernetic"
     theme = "cosmo"
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
-    home = "https://appernetic.io"
+
+    home = "https://appernetic2.io"
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
     highlight = "default"
