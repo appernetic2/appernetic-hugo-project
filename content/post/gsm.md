@@ -4,10 +4,10 @@ draft = false
 title = "gsm"
 
 +++
-In Khmer Rouge era the Chinese built this air strip. It is a long runway,I would imagine a big commercial plane could land here at any moment. 
+In Khmer Rouge era the Chinese built this air strip. It is a long runway, I would imagine a big commercial plane could land here at any moment. 
 
 ![https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport][1]
-
+https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport
 
 The strip was built deep inside Cambodia to counter the Vietnam war and facilitate Chinese warplanes.
 
