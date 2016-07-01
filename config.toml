@@ -17,7 +17,7 @@ theme = "hugo-bootstrap"
 paginate = 10
 paginatePath = "page"
 # Enable Disqus integration
-disqusShortname = "appernetic"
+disqusShortname = "appernetic2"
 [permalinks]
     post = "/:year/:month/:day/:slug/"
     code = "/:slug/"
@@ -25,21 +25,21 @@ disqusShortname = "appernetic"
     tag = "tags"
     topic = "topics"
 [author]
-    name = "Admin"
-    email = "support@appernetic.io"
+    name = "King Kong"
+    email = "Janne_Sar@hotmail.com"
 #
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
     # You can use markdown here.
-    brand = "Appernetic"
-    topline = "A Static Site Generator as a Service"
+    brand = "Appernetic2"
+    topline = "Not same same bar"
     footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
     theme = "cosmo"
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
 
-    home = "https://appernetic2.io"
+    home = "https://appernetic2.github.io"
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
     highlight = "default"
