@@ -1,24 +1,7 @@
 # hostname (and path) to the root eg. http://spf13.com/
 baseurl = "http://appernetic2.github.io"
 # Site title
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-title = "SSsrree"
+title = "Appernetic2"
 # Copyright
 copyright = "(c) 2016 Khmer"
 # Language
