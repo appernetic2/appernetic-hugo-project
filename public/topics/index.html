@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>Topics  &middot; sitename</title>
+  <title>Topics  &middot; My blog</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
@@ -16,49 +16,52 @@
 
 <meta name="keywords" content="">
 
+<link rel="author" href="http://plus.google.com/+Myprofile">
 
-<meta property="og:title" content="Topics  &middot; sitename ">
-<meta property="og:site_name" content="sitename"/>
-<meta property="og:url" content="http://www.example.com/topics/" />
-<meta property="og:locale" content="en-EN">
+
+<meta property="og:title" content="Topics  &middot; My blog ">
+<meta property="og:site_name" content="My blog"/>
+<meta property="og:url" content="%22/%22/topics/" />
+<meta property="og:locale" content="en">
 
 
 <meta property="og:type" content="website" />
 
 
 
-<link href="http://www.example.com/topics/index.xml" rel="alternate" type="application/rss+xml" title="Topics" />
+<link href="%22/%22/topics/index.xml" rel="alternate" type="application/rss+xml" title="Topics" />
 
-<link rel="canonical" href="http://www.example.com/topics/" />
-
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.example.com/touch-icon-144-precomposed.png">
-<link href="http://www.example.com/favicon.png" rel="icon">
-
-<meta name="generator" content="Hugo 0.15" />
+<link rel="canonical" href="%22/%22/topics/" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="%22/%22/touch-icon-144-precomposed.png">
+<link rel="icon" href="%22/%22/favicon.png">
+<meta name="generator" content="Hugo 0.34" />
 
   <!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
 
 
-    <link rel="stylesheet" href="http://www.example.com/css/theme/default.css">
+    <link rel="stylesheet" href="%22/%22/css/bootswatch/paper/bootstrap.min.css">
 
 
-<link rel="stylesheet" href="http://www.example.com/css/font-awesome.min.css">
-<link rel="stylesheet" href="http://www.example.com/css/style.css">
+<link rel="stylesheet" href="%22/%22/css/font-awesome.min.css">
+<link rel="stylesheet" href="%22/%22/css/style.css">
 
 
-  <link rel="stylesheet" href="http://www.example.com/css/highlight/default.css">
+<link rel="stylesheet" href="%22/%22/css/style_custom.css">
+
+
+
+  <link rel="stylesheet" href="%22/%22/css/highlight/default.css">
 
 
 </head>
-<body>
+<body data-ng-app="myapp" data-ng-controller="MyController" data-ng-mouseleave="MouseLeave($event)">
     <header id="main-header">
-  <div class="container-fluid">
   <nav class="navbar navbar-default navbar-fixed-top">
-
+    <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
           <span class="sr-only">Toggle navigation</span>
@@ -66,45 +69,49 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="home" class="navbar-brand"><img src="http://www.example.com/images/apperneticlogo.png"></a>
-      </div>
-      <div id="navbar" class="collapse navbar-collapse">
-        <ul class="nav navbar-nav">
-          <li ><a href="https://appernetic.io/#/about">About</a></li>
-          <li ><a href="https://appernetic.github.io/">Blog</a></li>
-          <li ><a href="https://appernetic.io/#/dashboard/list/create">Dashboard</a></li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
+        
           
-          <li>
-
-            <a href="http://www.example.com/post"
-            >
-
+          <a class="navbar-brand-img" href="%22/%22/">
+            <img alt="My awsome blog" src="http://blog.appernetic.io/images/apperneticlogo.png">
             
-
-            Posts
-            </a>
-          </li>
-          
-          <li>
-
-            <a href="http://www.example.com/tags"
-            >
-
+          </a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
             
+            
+            <li class="">
 
-            Tags
-            </a>
-          </li>
-          
-        </ul>
+              <a href="https://appernetic.io/app/#/about" >
+                <i class='fa fa-road'></i>
+                About
+              </a>
+            </li>
+            
+            <li class="">
+
+              <a href="%22/%22/post/" >
+                
+                Blog
+              </a>
+            </li>
+            
+            <li class="">
+
+              <a href="https://appernetic.io/app/" >
+                
+                Dashboard
+              </a>
+            </li>
+            
+            
+              
+          </ul>
+        </div>
+        
       </div>
-      
-
-  </nav>  </div>
-
-</header>
+    </nav>
+  </header>
 
 
 <section id="main-content" class="container main_content terms topic">
@@ -117,76 +124,60 @@
   
   
 </section>
-      <footer class="footer" style="padding-top:15px; padding-bottom:15px">
-    <div class="container-fluid hidden-print">
-    <div class="row ">
-      
-        <div class="pull-left col-md-8">
-          <small> 
-  <a class="toplink" href="#">back to top</a>
-
-
-  
- 
     
+<footer class="footer hidden-print">
+  <div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+           <div class="pull-left">
+  <a class="toplink" href="javascript:" id="return-to-top">back to top</a>
+</div>
+<div class="pull-right">
 
-  
+<a href="%22/%22/disclaimer/">Disclaimer</a> <i>&middot;</i>
+
+<a href="%22/%22/terms/">Terms</a> 
+
+</div>
+
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+              
+    
+<div class="container footline">
+    <small>
   code with <i class='fa fa-heart'></i>
 
-
-
+</small>
+</div>
 
 
     
-  
-  &copy; 2015 yourname.
+<div class="container copyright">
+    <small>
+  &copy; 2016 Copyright my blog
+
+  </small>
+</div>
 
 
 
-
-</small>
         </div>
-        <div class="pull-right col-md-4 text-right">
-        <small>
-          <a href="https://www.facebook.com//" target="_blank">
-            <i class="fa fa-facebook-square fa-2x"></i></a>
-          <a href="https://twitter.com/" target="_blank">
-          <i class="fa fa-twitter-square fa-2x"></i></a>
-          <a href="https://github.com/enten/hugo-boilerplate" target="_blank">
-          <i class="fa fa-github-square fa-2x"></i></a>
-          <a href="http://www.example.com/post/index.xml" target="_blank">
-          <i class="fa fa-rss-square fa-2x"></i></a></small>
-        </div>
-     </div>
     </div>
+  </div>
 </footer>
 
-    <script type="text/javascript">
-var host = "appernetic.github.io/";
-if ((host == window.location.host) && (window.location.protocol != "https:"))
-    window.location.protocol = "https";
-</script>
-<script src="http://www.example.com/js/jquery.min-2.1.4.js"></script>
-<script src="http://www.example.com/js/bootstrap.min-3.3.5.js"></script>
-
-
-
-<script type="text/javascript">
-  (function() {
     
-    
-    if (window.location.hostname == "localhost")
-      return;
 
-    var dsq = document.createElement('script'); dsq.async = true; dsq.type = 'text/javascript';
-    dsq.src = '//your_disqus_shortname.disqus.com/count.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
+<script src="%22/%22/js/jquery.min.js"></script>
+<script src="%22/%22/js/bootstrap.min.js"></script>
 
 
-<script src="http://www.example.com/js/highlight.pack.js"></script>
-<script src="http://www.example.com/js/site.js"></script>
+<script src="%22/%22/js/angular.min.js"></script>
+<script src="%22/%22/js/popover/angular-storage.min.js"></script>
+
+<script src="%22/%22/js/highlight.pack.js"></script>
+<script src="%22/%22/js/site.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
 
@@ -196,6 +187,66 @@ if ((host == window.location.host) && (window.location.protocol != "https:"))
   g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
   s.parentNode.insertBefore(g,s)}(document,'script'));
 </script>
+
+<script>
+var ENABLE_POPOVER =  true , 
+EXPIRE_COOKIE =  5 , 
+SHOW_MODAL_TIMEOUT =  10000 , 
+MOUSE_LEAVE =  true , 
+MODAL_SIZE = "", 
+POST_URL = "https://zapier.com/hooks/catch/1227563/", 
+SIGNUP_HEADER = "Join Our Newsletter",
+HEADER_IMAGE = "//placehold.it/1000x600",
+IMG_DESCRIPTION = "Placeholder image for this popover modal optin form",
+SIGNUP_TEXT = "Signup today for free and be the first to get notified on new updates.",
+INPUT_PLACEHOLDER = "Enter your email",
+SUBMIT_BUTTON = "Subscribe",
+SUCCESS_MESSAGE = "Thanks for your subscription!",
+ERROR_MESSAGE = "Submitting form failed!",
+OPTIN =  true ,
+COOKIE_NAME = "mycookie1",
+CONTENTLANGUAGE = ""; 
+</script>
+
+
+
+<script src="%22/%22/js/popover/angular-modal-service.min.js"></script>
+<script src="%22/%22/js/angular-ismobile.min.js"></script>
+<script src="%22/%22/js/popover/popover.min.js"></script>
+
+
+
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js"></script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/config/TeX-AMS-MML_HTMLorMML.js"></script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Queue(function() {
+    for(var all in MathJax.Hub.getAllJax()) {
+        all.SourceElement().parentNode.className += ' has-jax';
+
+    }
+});
+</script>
+
+
+
+
 
 
   </body>
