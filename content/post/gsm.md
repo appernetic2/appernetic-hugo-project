@@ -30,16 +30,5 @@ The air strip is now guarded by one military at the checkpoint and one police in
 Who will pay for the enlargment. The area for build is vast. But good luck for PM Hun Sen to make progress and development in Cambodia. 
 
 
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = http://appernetic2.github.io/2016/02/23/gsm/  // 
-        this.page.identifier = PAGE_IDENTIFIER; // Replace
-
 [1]: /images/12697273_1323105704381487_4152874675511216701_o.jpg
 [2]: /images/12729239_1323268787698512_7866697459634217947_n.jpg
