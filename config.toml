@@ -150,12 +150,6 @@ weight = 2
 identifier = "post"
 url = "/post/"
 
-[[Languages.en.menu.main]]
-name = "About"
-weight = 1
-identifier = ""
-url = "https://appernetic.io/app/#/about"
-pre = "<i class='fa fa-road'></i>"
 
 
 [[Languages.en.menu.footer]] # add  links to the bottom right corner.
