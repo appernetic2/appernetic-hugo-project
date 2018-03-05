@@ -1,4 +1,4 @@
-# hostname (and path) to the root eg. https://appernetic.github.io/
+# hostname (and path) to the root eg. https://appernetic2.github.io/
 baseurl = "/"
 
 # Remark if you want to disable multilingual support.
