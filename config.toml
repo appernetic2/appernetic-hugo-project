@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. https://appernetic2.github.io/
-baseurl = "/"
+baseurl = "https://appernetic2.github.io"
 
 # Remark if you want to disable multilingual support.
 DefaultContentLanguage = "en"
@@ -28,7 +28,7 @@ paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "shortname"
+disqusShortname = "appernetic2"
 
 
 [permalinks]
@@ -40,8 +40,8 @@ tag = "tags"
 topic = "topics"
 
 [author]
-name = "yourname"
-email = "yourname@example.com"
+name = "Jan S"
+email = "janne_sar@hotmail.com"
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -140,8 +140,8 @@ extensionmask = []
 [Languages.en]
 languageCode = "en"
 weight = 1
-copyright = "(c) 2016 Copyright my blog"
-title = "My blog" # Site title
+copyright = "(c) 2016 Copyright Appernetic2"
+title = "Appernetic2" # Site title
 
 [[Languages.en.menu.main]]
 name = "Blog"
@@ -152,12 +152,12 @@ url = "/post/"
 
 
 
-[[Languages.en.menu.footer]] # add  links to the bottom right corner.
-name = "Disclaimer"
-pre = "<i>&middot;</i>"
-identifier = "disclaimer"
-weight = 1
-url = "/disclaimer/"
+#[[Languages.en.menu.footer]] # add  links to the bottom right corner.
+#name = "Disclaimer"
+#pre = "<i>&middot;</i>"
+#identifier = "disclaimer"
+#weight = 1
+#url = "/disclaimer/"
 
 
 [Languages.sv]
