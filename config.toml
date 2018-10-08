@@ -153,9 +153,9 @@ url = "/post/"
 [[Languages.en.menu.main]]
 name = "About"
 weight = 1
-identifier = ""
-url = "https://appernetic.io/app/#/about"
-pre = "<i class='fa fa-road'></i>"
+identifier = "about"
+url = "/about/"
+
 
 [[Languages.en.menu.main]]
 name = "Dashboard"
